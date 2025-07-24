@@ -30,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/nitish-murugan/leetcode_journey/tree/master/0060-permutation-sequence) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/nitish-murugan/leetcode_journey/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/nitish-murugan/leetcode_journey/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
