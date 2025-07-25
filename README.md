@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/nitish-murugan/leetcode_journey/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/nitish-murugan/leetcode_journey/tree/master/0051-n-queens) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/nitish-murugan/leetcode_journey/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Backtracking
 |  |
 | ------- |
@@ -38,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nitish-murugan/leetcode_journey/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Hash Table
+|  |
+| ------- |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/nitish-murugan/leetcode_journey/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+## Greedy
+|  |
+| ------- |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/nitish-murugan/leetcode_journey/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 <!---LeetCode Topics End-->
