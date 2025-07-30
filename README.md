@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/nitish-murugan/leetcode_journey/tree/master/0060-permutation-sequence) |
+| [0441-arranging-coins](https://github.com/nitish-murugan/leetcode_journey/tree/master/0441-arranging-coins) |
 ## Recursion
 |  |
 | ------- |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/nitish-murugan/leetcode_journey/tree/master/2866-longest-even-odd-subarray-with-threshold) |
+## Binary Search
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/nitish-murugan/leetcode_journey/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->
