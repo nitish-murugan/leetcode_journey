@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nitish-murugan/leetcode_journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0131-palindrome-partitioning](https://github.com/nitish-murugan/leetcode_journey/tree/master/0131-palindrome-partitioning) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/nitish-murugan/leetcode_journey/tree/master/1302-delete-characters-to-make-fancy-string) |
 ## Dynamic Programming
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nitish-murugan/leetcode_journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/nitish-murugan/leetcode_journey/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/nitish-murugan/leetcode_journey/tree/master/0037-sudoku-solver) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/nitish-murugan/leetcode_journey/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nitish-murugan/leetcode_journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/nitish-murugan/leetcode_journey/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 ## Binary Search
 |  |
