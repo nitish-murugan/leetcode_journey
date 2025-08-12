@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/nitish-murugan/leetcode_journey/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/nitish-murugan/leetcode_journey/tree/master/0051-n-queens) |
 | [0118-pascals-triangle](https://github.com/nitish-murugan/leetcode_journey/tree/master/0118-pascals-triangle) |
+| [0322-coin-change](https://github.com/nitish-murugan/leetcode_journey/tree/master/0322-coin-change) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/nitish-murugan/leetcode_journey/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/nitish-murugan/leetcode_journey/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Backtracking
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/nitish-murugan/leetcode_journey/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/nitish-murugan/leetcode_journey/tree/master/0131-palindrome-partitioning) |
+| [0322-coin-change](https://github.com/nitish-murugan/leetcode_journey/tree/master/0322-coin-change) |
 ## Math
 |  |
 | ------- |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/nitish-murugan/leetcode_journey/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/nitish-murugan/leetcode_journey/tree/master/0037-sudoku-solver) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/nitish-murugan/leetcode_journey/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
