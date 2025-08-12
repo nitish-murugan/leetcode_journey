@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/nitish-murugan/leetcode_journey/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/nitish-murugan/leetcode_journey/tree/master/0131-palindrome-partitioning) |
 | [0322-coin-change](https://github.com/nitish-murugan/leetcode_journey/tree/master/0322-coin-change) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/nitish-murugan/leetcode_journey/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Math
 |  |
 | ------- |
