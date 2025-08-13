@@ -39,11 +39,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/nitish-murugan/leetcode_journey/tree/master/0060-permutation-sequence) |
+| [0326-power-of-three](https://github.com/nitish-murugan/leetcode_journey/tree/master/0326-power-of-three) |
 | [0441-arranging-coins](https://github.com/nitish-murugan/leetcode_journey/tree/master/0441-arranging-coins) |
 ## Recursion
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/nitish-murugan/leetcode_journey/tree/master/0060-permutation-sequence) |
+| [0326-power-of-three](https://github.com/nitish-murugan/leetcode_journey/tree/master/0326-power-of-three) |
 ## Linked List
 |  |
 | ------- |
