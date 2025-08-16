@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/nitish-murugan/leetcode_journey/tree/master/0060-permutation-sequence) |
 | [0326-power-of-three](https://github.com/nitish-murugan/leetcode_journey/tree/master/0326-power-of-three) |
 | [0441-arranging-coins](https://github.com/nitish-murugan/leetcode_journey/tree/master/0441-arranging-coins) |
+| [1448-maximum-69-number](https://github.com/nitish-murugan/leetcode_journey/tree/master/1448-maximum-69-number) |
 ## Recursion
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1448-maximum-69-number](https://github.com/nitish-murugan/leetcode_journey/tree/master/1448-maximum-69-number) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/nitish-murugan/leetcode_journey/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sliding Window
 |  |
