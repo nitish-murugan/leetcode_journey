@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/nitish-murugan/leetcode_journey/tree/master/0112-path-sum) |
 | [0322-coin-change](https://github.com/nitish-murugan/leetcode_journey/tree/master/0322-coin-change) |
 ## Stack
 |  |
@@ -103,4 +104,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/nitish-murugan/leetcode_journey/tree/master/0015-3sum) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/nitish-murugan/leetcode_journey/tree/master/0112-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/nitish-murugan/leetcode_journey/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/nitish-murugan/leetcode_journey/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
