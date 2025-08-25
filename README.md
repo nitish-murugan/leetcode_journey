@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/nitish-murugan/leetcode_journey/tree/master/0118-pascals-triangle) |
 | [0322-coin-change](https://github.com/nitish-murugan/leetcode_journey/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/nitish-murugan/leetcode_journey/tree/master/0485-max-consecutive-ones) |
+| [0498-diagonal-traverse](https://github.com/nitish-murugan/leetcode_journey/tree/master/0498-diagonal-traverse) |
 | [0907-koko-eating-bananas](https://github.com/nitish-murugan/leetcode_journey/tree/master/0907-koko-eating-bananas) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/nitish-murugan/leetcode_journey/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/nitish-murugan/leetcode_journey/tree/master/2866-longest-even-odd-subarray-with-threshold) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/nitish-murugan/leetcode_journey/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/nitish-murugan/leetcode_journey/tree/master/0037-sudoku-solver) |
+| [0498-diagonal-traverse](https://github.com/nitish-murugan/leetcode_journey/tree/master/0498-diagonal-traverse) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/nitish-murugan/leetcode_journey/tree/master/0023-merge-k-sorted-lists) |
+## Simulation
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/nitish-murugan/leetcode_journey/tree/master/0498-diagonal-traverse) |
 <!---LeetCode Topics End-->
