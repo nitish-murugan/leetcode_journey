@@ -147,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/nitish-murugan/leetcode_journey/tree/master/0498-diagonal-traverse) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/nitish-murugan/leetcode_journey/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
