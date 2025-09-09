@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/nitish-murugan/leetcode_journey/tree/master/0029-divide-two-integers) |
 | [0060-permutation-sequence](https://github.com/nitish-murugan/leetcode_journey/tree/master/0060-permutation-sequence) |
 | [0326-power-of-three](https://github.com/nitish-murugan/leetcode_journey/tree/master/0326-power-of-three) |
 | [0441-arranging-coins](https://github.com/nitish-murugan/leetcode_journey/tree/master/0441-arranging-coins) |
@@ -156,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/nitish-murugan/leetcode_journey/tree/master/0176-second-highest-salary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/nitish-murugan/leetcode_journey/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
