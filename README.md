@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nitish-murugan/leetcode_journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0131-palindrome-partitioning](https://github.com/nitish-murugan/leetcode_journey/tree/master/0131-palindrome-partitioning) |
+| [0165-compare-version-numbers](https://github.com/nitish-murugan/leetcode_journey/tree/master/0165-compare-version-numbers) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/nitish-murugan/leetcode_journey/tree/master/0521-longest-uncommon-subsequence-i) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/nitish-murugan/leetcode_journey/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/nitish-murugan/leetcode_journey/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nitish-murugan/leetcode_journey/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/nitish-murugan/leetcode_journey/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/nitish-murugan/leetcode_journey/tree/master/0088-merge-sorted-array) |
+| [0165-compare-version-numbers](https://github.com/nitish-murugan/leetcode_journey/tree/master/0165-compare-version-numbers) |
 ## Hash Table
 |  |
 | ------- |
