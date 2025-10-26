@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/nitish-murugan/leetcode_journey/tree/master/0907-koko-eating-bananas) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/nitish-murugan/leetcode_journey/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nitish-murugan/leetcode_journey/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/nitish-murugan/leetcode_journey/tree/master/2169-simple-bank-system) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/nitish-murugan/leetcode_journey/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/nitish-murugan/leetcode_journey/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/nitish-murugan/leetcode_journey/tree/master/2866-longest-even-odd-subarray-with-threshold) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/nitish-murugan/leetcode_journey/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/nitish-murugan/leetcode_journey/tree/master/0037-sudoku-solver) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/nitish-murugan/leetcode_journey/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [2169-simple-bank-system](https://github.com/nitish-murugan/leetcode_journey/tree/master/2169-simple-bank-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/nitish-murugan/leetcode_journey/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/nitish-murugan/leetcode_journey/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/nitish-murugan/leetcode_journey/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/nitish-murugan/leetcode_journey/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/nitish-murugan/leetcode_journey/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nitish-murugan/leetcode_journey/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/nitish-murugan/leetcode_journey/tree/master/2169-simple-bank-system) |
 ## Database
 |  |
 | ------- |
@@ -190,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/nitish-murugan/leetcode_journey/tree/master/0238-product-of-array-except-self) |
+## Design
+|  |
+| ------- |
+| [2169-simple-bank-system](https://github.com/nitish-murugan/leetcode_journey/tree/master/2169-simple-bank-system) |
 <!---LeetCode Topics End-->
