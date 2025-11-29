@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nitish-murugan/leetcode_journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0058-length-of-last-word](https://github.com/nitish-murugan/leetcode_journey/tree/master/0058-length-of-last-word) |
 | [0131-palindrome-partitioning](https://github.com/nitish-murugan/leetcode_journey/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/nitish-murugan/leetcode_journey/tree/master/0165-compare-version-numbers) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/nitish-murugan/leetcode_journey/tree/master/0521-longest-uncommon-subsequence-i) |
