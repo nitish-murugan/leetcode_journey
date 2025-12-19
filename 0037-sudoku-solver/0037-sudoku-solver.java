@@ -1,12 +1,12 @@
 class Solution {
-    public boolean check(int i, int j, char[][] board, char target){
-        for(int temp=0;temp<9;temp++) if(board[i][temp]==target) return false;
-        for(int temp=0;temp<9;temp++) if(board[temp][j]==target) return false;
-        int col = (j/3)==0?0:((j/3)==1?3:((j/3)==2)?6:0);
-        int row = (i/3)==0?0:((i/3)==1?3:((i/3)==2)?6:0);
-        for(int tempRow=row;tempRow<row+3;tempRow++){
-            for(int tempCol=col;tempCol<col+3;tempCol++){
-                if(board[tempRow][tempCol]==target) return false;
+    public boolean check(int row, int col, char[][] board, char num){
+        for(int i=0;i<9;i++) if(board[row][i]==num) return false;
+        for(int i=0;i<9;i++) if(board[i][col]==num) return false;
+        int tempCol = (col/3)==0?0:((col/3)==1?3:((col/3)==2)?6:0);
+        int tempRow = (row/3)==0?0:((row/3)==1?3:((row/3)==2)?6:0);
+        for(int i=tempRow;i<tempRow+3;i++){
+            for(int j=tempCol;j<tempCol+3;j++){
+                if(board[i][j]==num) return false;
             }
         }
         return true;
@@ -14,12 +14,11 @@ class Solution {
     public boolean fn(char[][] board){
         for(int i=0;i<board.length;i++){
             for(int j=0;j<board[0].length;j++){
-                if(board[i][j]=='.'){
+                if(board[i][j] == '.'){
                     for(char num='1';num<='9';num++){
                         if(check(i,j,board,num)){
                             board[i][j] = num;
-                            
-                            if(fn(board)==true) return true;
+                            if(fn(board)) return true;
                             else board[i][j] = '.';
                         }
                     }
