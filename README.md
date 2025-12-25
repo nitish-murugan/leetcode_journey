@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/nitish-murugan/leetcode_journey/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/nitish-murugan/leetcode_journey/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3334-apple-redistribution-into-boxes](https://github.com/nitish-murugan/leetcode_journey/tree/master/3334-apple-redistribution-into-boxes) |
+| [3351-maximize-happiness-of-selected-children](https://github.com/nitish-murugan/leetcode_journey/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nitish-murugan/leetcode_journey/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/nitish-murugan/leetcode_journey/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/nitish-murugan/leetcode_journey/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1448-maximum-69-number](https://github.com/nitish-murugan/leetcode_journey/tree/master/1448-maximum-69-number) |
 | [3334-apple-redistribution-into-boxes](https://github.com/nitish-murugan/leetcode_journey/tree/master/3334-apple-redistribution-into-boxes) |
+| [3351-maximize-happiness-of-selected-children](https://github.com/nitish-murugan/leetcode_journey/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/nitish-murugan/leetcode_journey/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sliding Window
 |  |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nitish-murugan/leetcode_journey/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/nitish-murugan/leetcode_journey/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3334-apple-redistribution-into-boxes](https://github.com/nitish-murugan/leetcode_journey/tree/master/3334-apple-redistribution-into-boxes) |
+| [3351-maximize-happiness-of-selected-children](https://github.com/nitish-murugan/leetcode_journey/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Tree
 |  |
 | ------- |
