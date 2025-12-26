@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/nitish-murugan/leetcode_journey/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/nitish-murugan/leetcode_journey/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/nitish-murugan/leetcode_journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/nitish-murugan/leetcode_journey/tree/master/0112-path-sum) |
 | [0322-coin-change](https://github.com/nitish-murugan/leetcode_journey/tree/master/0322-coin-change) |
 ## Stack
@@ -174,17 +175,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/nitish-murugan/leetcode_journey/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/nitish-murugan/leetcode_journey/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/nitish-murugan/leetcode_journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/nitish-murugan/leetcode_journey/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/nitish-murugan/leetcode_journey/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/nitish-murugan/leetcode_journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/nitish-murugan/leetcode_journey/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/nitish-murugan/leetcode_journey/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/nitish-murugan/leetcode_journey/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/nitish-murugan/leetcode_journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/nitish-murugan/leetcode_journey/tree/master/0112-path-sum) |
 ## Divide and Conquer
 |  |
