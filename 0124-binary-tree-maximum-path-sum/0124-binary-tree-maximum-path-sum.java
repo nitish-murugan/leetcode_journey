@@ -15,15 +15,18 @@
  */
 class Solution {
     int max = Integer.MIN_VALUE;
-    public int height(TreeNode root){
+    public int fn(TreeNode root){
         if(root == null) return 0;
-        int left = Math.max(height(root.left),0);
-        int right = Math.max(height(root.right),0);
-        max = Math.max(max,root.val+left+right);
-        return root.val+Math.max(left,right);
+        int left = Math.max(fn(root.left),0);
+        int right = Math.max(fn(root.right),0);
+
+        max = Math.max(max, left+right+root.val);
+
+        return root.val+Math.max(left, right);
     }
     public int maxPathSum(TreeNode root) {
-        height(root);
+        fn(root);
         return max;
+
     }
 }
