@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/nitish-murugan/leetcode_journey/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/nitish-murugan/leetcode_journey/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/nitish-murugan/leetcode_journey/tree/master/0051-n-queens) |
+| [0066-plus-one](https://github.com/nitish-murugan/leetcode_journey/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/nitish-murugan/leetcode_journey/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/nitish-murugan/leetcode_journey/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/nitish-murugan/leetcode_journey/tree/master/0118-pascals-triangle) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/nitish-murugan/leetcode_journey/tree/master/0029-divide-two-integers) |
 | [0060-permutation-sequence](https://github.com/nitish-murugan/leetcode_journey/tree/master/0060-permutation-sequence) |
+| [0066-plus-one](https://github.com/nitish-murugan/leetcode_journey/tree/master/0066-plus-one) |
 | [0326-power-of-three](https://github.com/nitish-murugan/leetcode_journey/tree/master/0326-power-of-three) |
 | [0441-arranging-coins](https://github.com/nitish-murugan/leetcode_journey/tree/master/0441-arranging-coins) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/nitish-murugan/leetcode_journey/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
