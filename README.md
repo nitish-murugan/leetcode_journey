@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/nitish-murugan/leetcode_journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/nitish-murugan/leetcode_journey/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/nitish-murugan/leetcode_journey/tree/master/0037-sudoku-solver) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nitish-murugan/leetcode_journey/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/nitish-murugan/leetcode_journey/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2169-simple-bank-system](https://github.com/nitish-murugan/leetcode_journey/tree/master/2169-simple-bank-system) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nitish-murugan/leetcode_journey/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/nitish-murugan/leetcode_journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/nitish-murugan/leetcode_journey/tree/master/0112-path-sum) |
 | [0322-coin-change](https://github.com/nitish-murugan/leetcode_journey/tree/master/0322-coin-change) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nitish-murugan/leetcode_journey/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Stack
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/nitish-murugan/leetcode_journey/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/nitish-murugan/leetcode_journey/tree/master/0088-merge-sorted-array) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nitish-murugan/leetcode_journey/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nitish-murugan/leetcode_journey/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/nitish-murugan/leetcode_journey/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3334-apple-redistribution-into-boxes](https://github.com/nitish-murugan/leetcode_journey/tree/master/3334-apple-redistribution-into-boxes) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/nitish-murugan/leetcode_journey/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nitish-murugan/leetcode_journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/nitish-murugan/leetcode_journey/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nitish-murugan/leetcode_journey/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -195,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/nitish-murugan/leetcode_journey/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nitish-murugan/leetcode_journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/nitish-murugan/leetcode_journey/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nitish-murugan/leetcode_journey/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -205,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/nitish-murugan/leetcode_journey/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nitish-murugan/leetcode_journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/nitish-murugan/leetcode_journey/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nitish-murugan/leetcode_journey/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
