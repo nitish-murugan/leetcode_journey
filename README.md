@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nitish-murugan/leetcode_journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/nitish-murugan/leetcode_journey/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/nitish-murugan/leetcode_journey/tree/master/0058-length-of-last-word) |
 | [0131-palindrome-partitioning](https://github.com/nitish-murugan/leetcode_journey/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/nitish-murugan/leetcode_journey/tree/master/0165-compare-version-numbers) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/nitish-murugan/leetcode_journey/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/nitish-murugan/leetcode_journey/tree/master/0029-divide-two-integers) |
 | [0060-permutation-sequence](https://github.com/nitish-murugan/leetcode_journey/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/nitish-murugan/leetcode_journey/tree/master/0066-plus-one) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nitish-murugan/leetcode_journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/nitish-murugan/leetcode_journey/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/nitish-murugan/leetcode_journey/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/nitish-murugan/leetcode_journey/tree/master/0037-sudoku-solver) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nitish-murugan/leetcode_journey/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
