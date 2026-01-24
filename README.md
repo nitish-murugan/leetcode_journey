@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/nitish-murugan/leetcode_journey/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/nitish-murugan/leetcode_journey/tree/master/0498-diagonal-traverse) |
 | [0907-koko-eating-bananas](https://github.com/nitish-murugan/leetcode_journey/tree/master/0907-koko-eating-bananas) |
+| [1046-max-consecutive-ones-iii](https://github.com/nitish-murugan/leetcode_journey/tree/master/1046-max-consecutive-ones-iii) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/nitish-murugan/leetcode_journey/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/nitish-murugan/leetcode_journey/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/nitish-murugan/leetcode_journey/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nitish-murugan/leetcode_journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1046-max-consecutive-ones-iii](https://github.com/nitish-murugan/leetcode_journey/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/nitish-murugan/leetcode_journey/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/nitish-murugan/leetcode_journey/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 ## Binary Search
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0441-arranging-coins](https://github.com/nitish-murugan/leetcode_journey/tree/master/0441-arranging-coins) |
 | [0907-koko-eating-bananas](https://github.com/nitish-murugan/leetcode_journey/tree/master/0907-koko-eating-bananas) |
+| [1046-max-consecutive-ones-iii](https://github.com/nitish-murugan/leetcode_journey/tree/master/1046-max-consecutive-ones-iii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/nitish-murugan/leetcode_journey/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/nitish-murugan/leetcode_journey/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Matrix
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/nitish-murugan/leetcode_journey/tree/master/0238-product-of-array-except-self) |
+| [1046-max-consecutive-ones-iii](https://github.com/nitish-murugan/leetcode_journey/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/nitish-murugan/leetcode_journey/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Design
 |  |
