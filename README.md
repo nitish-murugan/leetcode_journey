@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/nitish-murugan/leetcode_journey/tree/master/0498-diagonal-traverse) |
 | [0907-koko-eating-bananas](https://github.com/nitish-murugan/leetcode_journey/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/nitish-murugan/leetcode_journey/tree/master/1046-max-consecutive-ones-iii) |
+| [1306-minimum-absolute-difference](https://github.com/nitish-murugan/leetcode_journey/tree/master/1306-minimum-absolute-difference) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/nitish-murugan/leetcode_journey/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/nitish-murugan/leetcode_journey/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/nitish-murugan/leetcode_journey/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/nitish-murugan/leetcode_journey/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/nitish-murugan/leetcode_journey/tree/master/0088-merge-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nitish-murugan/leetcode_journey/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1306-minimum-absolute-difference](https://github.com/nitish-murugan/leetcode_journey/tree/master/1306-minimum-absolute-difference) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nitish-murugan/leetcode_journey/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/nitish-murugan/leetcode_journey/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3334-apple-redistribution-into-boxes](https://github.com/nitish-murugan/leetcode_journey/tree/master/3334-apple-redistribution-into-boxes) |
