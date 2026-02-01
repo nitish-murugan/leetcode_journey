@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/nitish-murugan/leetcode_journey/tree/master/0222-count-complete-tree-nodes) |
 | [0441-arranging-coins](https://github.com/nitish-murugan/leetcode_journey/tree/master/0441-arranging-coins) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/nitish-murugan/leetcode_journey/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0907-koko-eating-bananas](https://github.com/nitish-murugan/leetcode_journey/tree/master/0907-koko-eating-bananas) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/nitish-murugan/leetcode_journey/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nitish-murugan/leetcode_journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nitish-murugan/leetcode_journey/tree/master/0144-binary-tree-preorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/nitish-murugan/leetcode_journey/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nitish-murugan/leetcode_journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/nitish-murugan/leetcode_journey/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nitish-murugan/leetcode_journey/tree/master/0662-maximum-width-of-binary-tree) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/nitish-murugan/leetcode_journey/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nitish-murugan/leetcode_journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nitish-murugan/leetcode_journey/tree/master/0144-binary-tree-preorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/nitish-murugan/leetcode_journey/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nitish-murugan/leetcode_journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/nitish-murugan/leetcode_journey/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nitish-murugan/leetcode_journey/tree/master/0662-maximum-width-of-binary-tree) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/nitish-murugan/leetcode_journey/tree/master/0029-divide-two-integers) |
 | [0090-subsets-ii](https://github.com/nitish-murugan/leetcode_journey/tree/master/0090-subsets-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/nitish-murugan/leetcode_journey/tree/master/0222-count-complete-tree-nodes) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/nitish-murugan/leetcode_journey/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Counting
 |  |
