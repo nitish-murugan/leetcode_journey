@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/nitish-murugan/leetcode_journey/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/nitish-murugan/leetcode_journey/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nitish-murugan/leetcode_journey/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3952-trionic-array-i](https://github.com/nitish-murugan/leetcode_journey/tree/master/3952-trionic-array-i) |
 ## Backtracking
 |  |
 | ------- |
