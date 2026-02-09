@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/nitish-murugan/leetcode_journey/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/nitish-murugan/leetcode_journey/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/nitish-murugan/leetcode_journey/tree/master/1046-max-consecutive-ones-iii) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nitish-murugan/leetcode_journey/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1306-minimum-absolute-difference](https://github.com/nitish-murugan/leetcode_journey/tree/master/1306-minimum-absolute-difference) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/nitish-murugan/leetcode_journey/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/nitish-murugan/leetcode_journey/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -192,10 +193,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nitish-murugan/leetcode_journey/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nitish-murugan/leetcode_journey/tree/master/0144-binary-tree-preorder-traversal) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nitish-murugan/leetcode_journey/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nitish-murugan/leetcode_journey/tree/master/0042-trapping-rain-water) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nitish-murugan/leetcode_journey/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Sorting
 |  |
 | ------- |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/nitish-murugan/leetcode_journey/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/nitish-murugan/leetcode_journey/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nitish-murugan/leetcode_journey/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nitish-murugan/leetcode_journey/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/nitish-murugan/leetcode_journey/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
@@ -257,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/nitish-murugan/leetcode_journey/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/nitish-murugan/leetcode_journey/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nitish-murugan/leetcode_journey/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nitish-murugan/leetcode_journey/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/nitish-murugan/leetcode_journey/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Divide and Conquer
 |  |
@@ -304,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2169-simple-bank-system](https://github.com/nitish-murugan/leetcode_journey/tree/master/2169-simple-bank-system) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nitish-murugan/leetcode_journey/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
