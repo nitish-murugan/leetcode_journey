@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nitish-murugan/leetcode_journey/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/nitish-murugan/leetcode_journey/tree/master/0023-merge-k-sorted-lists) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/nitish-murugan/leetcode_journey/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/nitish-murugan/leetcode_journey/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nitish-murugan/leetcode_journey/tree/master/0042-trapping-rain-water) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/nitish-murugan/leetcode_journey/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nitish-murugan/leetcode_journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nitish-murugan/leetcode_journey/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nitish-murugan/leetcode_journey/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nitish-murugan/leetcode_journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/nitish-murugan/leetcode_journey/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/nitish-murugan/leetcode_journey/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nitish-murugan/leetcode_journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nitish-murugan/leetcode_journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/nitish-murugan/leetcode_journey/tree/master/0222-count-complete-tree-nodes) |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/nitish-murugan/leetcode_journey/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nitish-murugan/leetcode_journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/nitish-murugan/leetcode_journey/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/nitish-murugan/leetcode_journey/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nitish-murugan/leetcode_journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nitish-murugan/leetcode_journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0207-course-schedule](https://github.com/nitish-murugan/leetcode_journey/tree/master/0207-course-schedule) |
@@ -265,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nitish-murugan/leetcode_journey/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nitish-murugan/leetcode_journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/nitish-murugan/leetcode_journey/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/nitish-murugan/leetcode_journey/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nitish-murugan/leetcode_journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nitish-murugan/leetcode_journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/nitish-murugan/leetcode_journey/tree/master/0222-count-complete-tree-nodes) |
