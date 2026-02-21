@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/nitish-murugan/leetcode_journey/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/nitish-murugan/leetcode_journey/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/nitish-murugan/leetcode_journey/tree/master/0498-diagonal-traverse) |
+| [0503-next-greater-element-ii](https://github.com/nitish-murugan/leetcode_journey/tree/master/0503-next-greater-element-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/nitish-murugan/leetcode_journey/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0907-koko-eating-bananas](https://github.com/nitish-murugan/leetcode_journey/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/nitish-murugan/leetcode_journey/tree/master/0940-fruit-into-baskets) |
@@ -202,11 +203,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/nitish-murugan/leetcode_journey/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nitish-murugan/leetcode_journey/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nitish-murugan/leetcode_journey/tree/master/0144-binary-tree-preorder-traversal) |
+| [0503-next-greater-element-ii](https://github.com/nitish-murugan/leetcode_journey/tree/master/0503-next-greater-element-ii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nitish-murugan/leetcode_journey/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nitish-murugan/leetcode_journey/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/nitish-murugan/leetcode_journey/tree/master/0503-next-greater-element-ii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nitish-murugan/leetcode_journey/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Sorting
 |  |
