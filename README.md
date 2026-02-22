@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/nitish-murugan/leetcode_journey/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/nitish-murugan/leetcode_journey/tree/master/0222-count-complete-tree-nodes) |
 | [0693-binary-number-with-alternating-bits](https://github.com/nitish-murugan/leetcode_journey/tree/master/0693-binary-number-with-alternating-bits) |
+| [0899-binary-gap](https://github.com/nitish-murugan/leetcode_journey/tree/master/0899-binary-gap) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/nitish-murugan/leetcode_journey/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Counting
 |  |
