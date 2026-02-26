@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0521-longest-uncommon-subsequence-i](https://github.com/nitish-murugan/leetcode_journey/tree/master/0521-longest-uncommon-subsequence-i) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/nitish-murugan/leetcode_journey/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/nitish-murugan/leetcode_journey/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/nitish-murugan/leetcode_journey/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nitish-murugan/leetcode_journey/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/nitish-murugan/leetcode_journey/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/nitish-murugan/leetcode_journey/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/nitish-murugan/leetcode_journey/tree/master/0498-diagonal-traverse) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/nitish-murugan/leetcode_journey/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1642-water-bottles](https://github.com/nitish-murugan/leetcode_journey/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nitish-murugan/leetcode_journey/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/nitish-murugan/leetcode_journey/tree/master/2169-simple-bank-system) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/nitish-murugan/leetcode_journey/tree/master/0222-count-complete-tree-nodes) |
 | [0693-binary-number-with-alternating-bits](https://github.com/nitish-murugan/leetcode_journey/tree/master/0693-binary-number-with-alternating-bits) |
 | [0899-binary-gap](https://github.com/nitish-murugan/leetcode_journey/tree/master/0899-binary-gap) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/nitish-murugan/leetcode_journey/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/nitish-murugan/leetcode_journey/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Counting
 |  |
