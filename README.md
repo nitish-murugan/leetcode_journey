@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/nitish-murugan/leetcode_journey/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/nitish-murugan/leetcode_journey/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/nitish-murugan/leetcode_journey/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
+| [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/nitish-murugan/leetcode_journey/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nitish-murugan/leetcode_journey/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/nitish-murugan/leetcode_journey/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/nitish-murugan/leetcode_journey/tree/master/2346-largest-3-same-digit-number-in-string) |
