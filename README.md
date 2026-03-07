@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/nitish-murugan/leetcode_journey/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/nitish-murugan/leetcode_journey/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/nitish-murugan/leetcode_journey/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/nitish-murugan/leetcode_journey/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/nitish-murugan/leetcode_journey/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/nitish-murugan/leetcode_journey/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/nitish-murugan/leetcode_journey/tree/master/0118-pascals-triangle) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/nitish-murugan/leetcode_journey/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/nitish-murugan/leetcode_journey/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/nitish-murugan/leetcode_journey/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/nitish-murugan/leetcode_journey/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nitish-murugan/leetcode_journey/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/nitish-murugan/leetcode_journey/tree/master/0131-palindrome-partitioning) |
 ## String
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/nitish-murugan/leetcode_journey/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/nitish-murugan/leetcode_journey/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nitish-murugan/leetcode_journey/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/nitish-murugan/leetcode_journey/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/nitish-murugan/leetcode_journey/tree/master/0222-count-complete-tree-nodes) |
