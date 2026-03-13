@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/nitish-murugan/leetcode_journey/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nitish-murugan/leetcode_journey/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1306-minimum-absolute-difference](https://github.com/nitish-murugan/leetcode_journey/tree/master/1306-minimum-absolute-difference) |
+| [1310-watering-plants](https://github.com/nitish-murugan/leetcode_journey/tree/master/1310-watering-plants) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/nitish-murugan/leetcode_journey/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/nitish-murugan/leetcode_journey/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/nitish-murugan/leetcode_journey/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/nitish-murugan/leetcode_journey/tree/master/0498-diagonal-traverse) |
+| [1310-watering-plants](https://github.com/nitish-murugan/leetcode_journey/tree/master/1310-watering-plants) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/nitish-murugan/leetcode_journey/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1642-water-bottles](https://github.com/nitish-murugan/leetcode_journey/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nitish-murugan/leetcode_journey/tree/master/2137-final-value-of-variable-after-performing-operations) |
