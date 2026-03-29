@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/nitish-murugan/leetcode_journey/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/nitish-murugan/leetcode_journey/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/nitish-murugan/leetcode_journey/tree/master/0118-pascals-triangle) |
+| [0200-number-of-islands](https://github.com/nitish-murugan/leetcode_journey/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/nitish-murugan/leetcode_journey/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/nitish-murugan/leetcode_journey/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/nitish-murugan/leetcode_journey/tree/master/0485-max-consecutive-ones) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/nitish-murugan/leetcode_journey/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/nitish-murugan/leetcode_journey/tree/master/0037-sudoku-solver) |
+| [0200-number-of-islands](https://github.com/nitish-murugan/leetcode_journey/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/nitish-murugan/leetcode_journey/tree/master/0498-diagonal-traverse) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/nitish-murugan/leetcode_journey/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/nitish-murugan/leetcode_journey/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nitish-murugan/leetcode_journey/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nitish-murugan/leetcode_journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/nitish-murugan/leetcode_journey/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/nitish-murugan/leetcode_journey/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/nitish-murugan/leetcode_journey/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nitish-murugan/leetcode_journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/nitish-murugan/leetcode_journey/tree/master/0322-coin-change) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nitish-murugan/leetcode_journey/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nitish-murugan/leetcode_journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nitish-murugan/leetcode_journey/tree/master/0144-binary-tree-preorder-traversal) |
+| [0200-number-of-islands](https://github.com/nitish-murugan/leetcode_journey/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/nitish-murugan/leetcode_journey/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nitish-murugan/leetcode_journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nitish-murugan/leetcode_journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -372,4 +376,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3849-equal-sum-grid-partition-i](https://github.com/nitish-murugan/leetcode_journey/tree/master/3849-equal-sum-grid-partition-i) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/nitish-murugan/leetcode_journey/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
