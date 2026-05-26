@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/nitish-murugan/leetcode_journey/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/nitish-murugan/leetcode_journey/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2401-count-asterisks](https://github.com/nitish-murugan/leetcode_journey/tree/master/2401-count-asterisks) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/nitish-murugan/leetcode_journey/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/nitish-murugan/leetcode_journey/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nitish-murugan/leetcode_journey/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/nitish-murugan/leetcode_journey/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/nitish-murugan/leetcode_journey/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/nitish-murugan/leetcode_journey/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/nitish-murugan/leetcode_journey/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/nitish-murugan/leetcode_journey/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/nitish-murugan/leetcode_journey/tree/master/3872-find-most-frequent-vowel-and-consonant) |
