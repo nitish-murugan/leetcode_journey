@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/nitish-murugan/leetcode_journey/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/nitish-murugan/leetcode_journey/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/nitish-murugan/leetcode_journey/tree/master/2866-longest-even-odd-subarray-with-threshold) |
+| [2892-check-if-array-is-good](https://github.com/nitish-murugan/leetcode_journey/tree/master/2892-check-if-array-is-good) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/nitish-murugan/leetcode_journey/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/nitish-murugan/leetcode_journey/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3334-apple-redistribution-into-boxes](https://github.com/nitish-murugan/leetcode_journey/tree/master/3334-apple-redistribution-into-boxes) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/nitish-murugan/leetcode_journey/tree/master/2169-simple-bank-system) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nitish-murugan/leetcode_journey/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/nitish-murugan/leetcode_journey/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2892-check-if-array-is-good](https://github.com/nitish-murugan/leetcode_journey/tree/master/2892-check-if-array-is-good) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/nitish-murugan/leetcode_journey/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/nitish-murugan/leetcode_journey/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/nitish-murugan/leetcode_journey/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-minimum-absolute-difference](https://github.com/nitish-murugan/leetcode_journey/tree/master/1306-minimum-absolute-difference) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nitish-murugan/leetcode_journey/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/nitish-murugan/leetcode_journey/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2892-check-if-array-is-good](https://github.com/nitish-murugan/leetcode_journey/tree/master/2892-check-if-array-is-good) |
 | [3334-apple-redistribution-into-boxes](https://github.com/nitish-murugan/leetcode_journey/tree/master/3334-apple-redistribution-into-boxes) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/nitish-murugan/leetcode_journey/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Tree
