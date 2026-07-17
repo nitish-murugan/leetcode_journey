@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/nitish-murugan/leetcode_journey/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/nitish-murugan/leetcode_journey/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/nitish-murugan/leetcode_journey/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
+| [1894-merge-strings-alternately](https://github.com/nitish-murugan/leetcode_journey/tree/master/1894-merge-strings-alternately) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/nitish-murugan/leetcode_journey/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2107-find-unique-binary-string](https://github.com/nitish-murugan/leetcode_journey/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nitish-murugan/leetcode_journey/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/nitish-murugan/leetcode_journey/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/nitish-murugan/leetcode_journey/tree/master/0088-merge-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/nitish-murugan/leetcode_journey/tree/master/0165-compare-version-numbers) |
+| [1894-merge-strings-alternately](https://github.com/nitish-murugan/leetcode_journey/tree/master/1894-merge-strings-alternately) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/nitish-murugan/leetcode_journey/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Hash Table
 |  |
