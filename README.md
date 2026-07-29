@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nitish-murugan/leetcode_journey/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1306-minimum-absolute-difference](https://github.com/nitish-murugan/leetcode_journey/tree/master/1306-minimum-absolute-difference) |
 | [1310-watering-plants](https://github.com/nitish-murugan/leetcode_journey/tree/master/1310-watering-plants) |
+| [1408-string-matching-in-an-array](https://github.com/nitish-murugan/leetcode_journey/tree/master/1408-string-matching-in-an-array) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/nitish-murugan/leetcode_journey/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/nitish-murugan/leetcode_journey/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/nitish-murugan/leetcode_journey/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0521-longest-uncommon-subsequence-i](https://github.com/nitish-murugan/leetcode_journey/tree/master/0521-longest-uncommon-subsequence-i) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/nitish-murugan/leetcode_journey/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/nitish-murugan/leetcode_journey/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1408-string-matching-in-an-array](https://github.com/nitish-murugan/leetcode_journey/tree/master/1408-string-matching-in-an-array) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/nitish-murugan/leetcode_journey/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/nitish-murugan/leetcode_journey/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1894-merge-strings-alternately](https://github.com/nitish-murugan/leetcode_journey/tree/master/1894-merge-strings-alternately) |
@@ -387,4 +389,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/nitish-murugan/leetcode_journey/tree/master/0200-number-of-islands) |
+## String Matching
+|  |
+| ------- |
+| [1408-string-matching-in-an-array](https://github.com/nitish-murugan/leetcode_journey/tree/master/1408-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
