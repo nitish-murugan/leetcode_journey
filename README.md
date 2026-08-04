@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nitish-murugan/leetcode_journey/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3849-equal-sum-grid-partition-i](https://github.com/nitish-murugan/leetcode_journey/tree/master/3849-equal-sum-grid-partition-i) |
 | [3952-trionic-array-i](https://github.com/nitish-murugan/leetcode_journey/tree/master/3952-trionic-array-i) |
+| [4107-find-missing-elements](https://github.com/nitish-murugan/leetcode_journey/tree/master/4107-find-missing-elements) |
 ## Backtracking
 |  |
 | ------- |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/nitish-murugan/leetcode_journey/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/nitish-murugan/leetcode_journey/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/nitish-murugan/leetcode_journey/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4107-find-missing-elements](https://github.com/nitish-murugan/leetcode_journey/tree/master/4107-find-missing-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2892-check-if-array-is-good](https://github.com/nitish-murugan/leetcode_journey/tree/master/2892-check-if-array-is-good) |
 | [3334-apple-redistribution-into-boxes](https://github.com/nitish-murugan/leetcode_journey/tree/master/3334-apple-redistribution-into-boxes) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/nitish-murugan/leetcode_journey/tree/master/3351-maximize-happiness-of-selected-children) |
+| [4107-find-missing-elements](https://github.com/nitish-murugan/leetcode_journey/tree/master/4107-find-missing-elements) |
 ## Tree
 |  |
 | ------- |
